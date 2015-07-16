@@ -1,0 +1,25 @@
+{
+  "name": "c-file-upload",
+  "version": "0.0.1",
+  "authors": [
+    "Celine Bensoussan <celine.bensoussan@gmail.com>"
+  ],
+  "description": "Polymer material file upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CelineBen/c-file-upload"
+  },
+  "keywords": [
+    "Polymer",
+    "web-components"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/CelineBen/c-file-upload",
+  "devDependencies": {
+    "bower": "^1.4.1"
+  }
+}
